@@ -1,17 +1,32 @@
-# Hi there, I'm Divyansh Saxena! 👋  
-🚀 **Aspiring Software Engineer | Cloud & DevOps Enthusiast**  
+## Hi there, I'm Divyansh Saxena! 👋  
+🚀 **Aspiring Software Engineer | Cloud & DevOps Enthusiast**
 
-I am a **pre-final year B.Tech student** passionate about **software development, cloud computing, and DevOps automation**. With a strong foundation in **algorithms, data structures, and system design**, I love working on real-world projects that integrate **scalability, performance, and security**. I am always eager to learn new technologies and contribute to impactful projects.  
+I am a final year **B.Tech Computer Science** student specializing in **Cloud Computing & Virtualization**, with a strong interest in **software development**, **cloud platforms**, and **DevOps automation**.
+
+With a solid foundation in **data structures**, **algorithms**, and **system design**, I enjoy working on real-world projects that focus on **scalability**, **performance**, and **security**. I am highly motivated to learn new technologies and contribute to impactful, production-ready systems.
 
 ---
 
-## 🌟 About Me  
-🎓 **B.Tech in Computer Science (2022-2026) | UPES, Dehradun | GPA: 7.35/10**  
-🏆 **Cloud & AWS Certified | Hands-on with AWS, Docker, Kubernetes**  
-💻 **Tech Stack:** C, C++, Python, Java, SQL, React, MySQL, AWS, Docker, Kubernetes  
-🌱 **Currently exploring:** CI/CD automation, Microservices, AI-driven DevOps  
-🎯 **Seeking software engineering & DevOps internships**  
-🤝 **Active Contributor to Open-Source & Tech Communities**  
+### 🌟 About Me
+
+- 🎓 **B.Tech in Computer Science (2022–2026)**  
+  UPES, Dehradun | **CGPA: 7.54 / 10**
+
+- 🏆 **Cloud & AWS Certified**  
+  Hands-on experience with AWS services and cloud-native development
+
+- 💻 **Tech Stack**  
+  Java, Python, C, JavaScript, SQL, React.js, Node.js, MongoDB, MySQL, AWS
+
+- 🌱 **Currently Exploring**  
+  CI/CD pipelines, Microservices architecture, Kubernetes, DevOps automation
+
+- 🎯 **Career Goals**  
+  Actively seeking **Software Engineering** and **Cloud / DevOps Internship** opportunities
+
+- 🤝 **Community & Collaboration**  
+  Active contributor to tech communities and collaborative development projects
+
 
 ---
 
