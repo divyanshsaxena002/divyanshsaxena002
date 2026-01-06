@@ -31,24 +31,45 @@ With a solid foundation in **data structures**, **algorithms**, and **system des
 ---
 
 ## 🔥 Featured Projects  
-📊 **SortScout** – A product comparison app using the **Weighted Scoring Method (WSM)** for ranking products across multiple e-commerce platforms.  
+### ☕ CafeOps
+A full-stack café management platform with customer management, inventory tracking, and order processing.  
+**Tech Stack:** React.js, Node.js, Tailwind CSS, REST APIs  
 
-📈 **Pair Trading for Crypto Market** – Algorithmic trading strategy implementation for crypto market analysis.  
+### ☁️ Cloud-Based File Storage & Sharing System
+A secure and scalable cloud storage platform with authentication, access control, and encryption.  
+**Tech Stack:** AWS S3, Azure Blob Storage  
 
-☁️ **Cloud-Based File Storage & Sharing System** – A secure cloud storage system similar to Dropbox, leveraging **AWS S3** for scalable storage.  
+### 🏠 StayFinder
+An Airbnb-inspired property rental platform with listing, search, and booking functionality.  
+**Tech Stack:** MERN Stack  
 
-🌍 **Real-Time Disaster Alert Web App** – Uses **USGS API** to provide instant earthquake alerts and disaster tracking.  
-
-🎉 **Event Management Web App** – A **React & MySQL-based** platform for organizing and managing university events.  
+### 🤖 ML Model Trainer Web Application
+A web application for dataset upload, EDA, ML model training, and result visualization.  
+**Tech Stack:** Python, Streamlit, scikit-learn, SHAP, Evidently AI   
 
 ---
 
-## 🚀 Skills & Tools  
-- **Programming:** C, C++, Python, Java, JavaScript  
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions, OpenStack  
-- **Databases:** MySQL, NoSQL, Redis  
-- **Frontend & Backend:** React, Flask, Django  
-- **Other:** Data Structures, Algorithms, CI/CD, Networking, Security  
+
+### 💻 Tech Stack
+
+**Languages:**  
+Java | Python | JavaScript | C  
+
+**Frontend:**  
+React.js | HTML5 | CSS3 | Tailwind CSS  
+
+**Backend:**  
+Node.js | Express.js | Spring Boot | REST APIs  
+
+**Databases:**  
+MongoDB | MySQL | SQL  
+
+**Cloud & DevOps:**  
+AWS (S3, EKS, Serverless) | Cloud Computing Basics  
+
+**Tools & Practices:**  
+Git & GitHub | Agile | API Integration | Problem Solving
+
 
 ---
 
