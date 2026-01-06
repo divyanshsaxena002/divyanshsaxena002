@@ -77,7 +77,7 @@ Git & GitHub | Agile | API Integration | Problem Solving
 
 ![Divyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshsaxena002&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshsaxena002&layout=compact&theme=tokyonight)  
-<img src="https://github-profile-trophy.vercel.app/?username=divyanshsaxena002&margin-w=10&no-frame=true" />
+
 
 
 ---
